@@ -1,0 +1,1 @@
+  000 10 10 100 1000 2 20 20 20 2000 2000 25 4 4 600 ALBERI DImensioni Dimensioni Fatore Fattore INSERTION INSERTION INSERTION Rip Rip TUTTI crescente decrescente nodi rand rip
