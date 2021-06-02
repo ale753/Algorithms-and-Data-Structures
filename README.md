@@ -1,11 +1,6 @@
 # Algorithms-and-Data-Structures
 Python implementation of the most important sorting algorithms (with computational analisys)
 
-
-LICENSE INFORMATIONS 
-
-Copyright 2018, Alessandro Placido Luise, All rights reserved
-
 You can download, modify and improve this code as you prefer. 
 
 ---------------------------------------------------------------
@@ -18,7 +13,7 @@ Smart Tester tests a sorting alghoritm (in this case InsertionSort,CountingSort,
 complexity with n, n^2, nlog2n.  (linear, quadratic, logaritmic)
 
 On the left, you can generate a random array of input lenght, insert an array manually or read it form .txt file. Note that you can do your 
-operations also for an input of strings, not also integers.
+operations also for an input of strings, not only integers.
 Once you have your input array, you can sort it with the algorithm you prefer by clicking the button on the right.
 On the bottom, you can test your algorithm by giving it some random, ascendent or descendent input for N numbers of times.
 For example :
@@ -36,5 +31,3 @@ EXECUTABLE :
 I have included the executable, so you can use this program without installing python libraries or c++ libraries (folder "dist", click on "english-ver" application to run it).
 
 IMPORTANT : There is no loading screen, so it can take a while to start due to loading modules and stuff.
-
-IDE : Intellij Idea
