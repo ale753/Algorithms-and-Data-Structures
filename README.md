@@ -13,7 +13,6 @@ You can download, modify and improve this code as you prefer.
 HOW IT WORKS
 
 This Python 3 code was written in few days for a college exam but most importantly for learning purposes. 
-I know that some parts of the code could be improved (I have not used object-oriented paradigm) but for now I have no time to do this.
 
 Smart Tester tests a sorting alghoritm (in this case InsertionSort,CountingSort,MergeSort,HeapSort), calculates the execution times and confronts
 complexity with n, n^2, nlog2n.  (linear, quadratic, logaritmic)
